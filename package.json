@@ -1,0 +1,11 @@
+{
+  "name": "rollup-plugin-toml",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "rollup-pluginutils": "^2.3.0",
+    "toml": "^2.3.3"
+  }
+}
