@@ -2,6 +2,21 @@
   "name": "rollup-plugin-toml",
   "version": "1.0.0",
   "main": "index.js",
+  "author": {
+    "name": "Vojtech Stepancik",
+    "email": "vojtechstepancik@outlook.com",
+    "url": "https://github.com/VojtechStep"
+  },
+  "description": "A Rollup.js plugin that allows you to import .toml files into you JavaScript code.",
+  "keywords": [
+    "rollup",
+    "plugin",
+    "toml"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VojtechStep/rollup-plugin-toml"
+  },
   "license": "MIT",
   "private": false,
   "dependencies": {
